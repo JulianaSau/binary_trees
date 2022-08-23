@@ -64,3 +64,5 @@ dkms.conf
 4-main.c
 5-main.c
 5-root
+6-main.c
+6-pre
