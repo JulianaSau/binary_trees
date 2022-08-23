@@ -58,3 +58,5 @@ dkms.conf
 1-left
 2-left
 2-main.c
+3-main.c
+3-del
