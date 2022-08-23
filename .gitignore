@@ -53,3 +53,6 @@ dkms.conf
 
 # project test files
 0-main.c
+1-main.c
+0-node
+1-left
