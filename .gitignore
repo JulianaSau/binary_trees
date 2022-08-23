@@ -72,3 +72,5 @@ dkms.conf
 8-post
 9-main.c
 9-height
+10-main.c
+10-depth
