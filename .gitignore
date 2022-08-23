@@ -56,7 +56,7 @@ dkms.conf
 1-main.c
 0-node
 1-left
-2-left
+2-right
 2-main.c
 3-main.c
 3-del
@@ -66,3 +66,5 @@ dkms.conf
 5-root
 6-main.c
 6-pre
+7-main.c
+7-in
